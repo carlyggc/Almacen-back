@@ -1,4 +1,4 @@
-\c almacen
+
 
 CREATE TABLE IF NOT EXISTS productos (
   id TEXT PRIMARY KEY,

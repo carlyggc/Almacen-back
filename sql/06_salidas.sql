@@ -1,4 +1,3 @@
-\c almacen
 
 CREATE TABLE IF NOT EXISTS salidas (
   id TEXT PRIMARY KEY,
